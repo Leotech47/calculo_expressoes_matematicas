@@ -137,5 +137,3 @@ Encerrando a calculadora avançada. Até mais!
 
 Esta calculadora é ideal para **estudantes de Python** ou quem deseja aprender a criar **interfaces de linha de comando interativas** e **avaliar expressões matemáticas** de forma segura.
 
-```
-
